@@ -12,7 +12,7 @@ https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-basics/get-star
 In this section, we create a new Mobile App(Xamarin.Forms) Solution in Visual Studio and some XAML and C# files to display basic pages.  These contain a start page with a navigation button and another page with a label, a slider, and an alert message that appears when a button is clicked.
 ## Part 2. Essential XAML Syntax  
 https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-basics/essential-xaml-syntax  
-In this section, we add two sample grid layouts and padding to iOS pages.  
+In this section, we learn about property element syntax.  We also add two sample grid layouts and padding to iOS pages.  
 
     
 ## Technologies Used
