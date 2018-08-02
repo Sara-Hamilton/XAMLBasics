@@ -15,8 +15,11 @@
                Rotation="-15"
                IsVisible="true"
                FontSize="Large"
-               FontAttributes="Bold"
-               TextColor="Blue" />
+               FontAttributes="Bold">
+            <Label.TextColor>
+                Aqua
+            </Label.TextColor>
+        </Label>
 
         <Button Text="Click Me!"
                 HorizontalOptions="Center"
