@@ -13,6 +13,7 @@ In this section, we create a new Mobile App(Xamarin.Forms) Solution in Visual St
 ## Part 2. Essential XAML Syntax  
 https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-basics/essential-xaml-syntax  
 In this section, we learn about property element syntax.  We also add two sample grid layouts and padding to iOS pages.  
+## Part 3. XAML Markup Extensions
 
     
 ## Technologies Used
