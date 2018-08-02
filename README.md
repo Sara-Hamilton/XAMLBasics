@@ -9,7 +9,7 @@ The purpose of this app is to learn Xamarin for mobile and web development.
 
 ## Part 1. Getting Started with XAML
 https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-basics/get-started-with-xaml?tabs=vswin  
-In this section, we create a new Mobile App(Xamarin.Forms) Solution in Visual Studio and some XAML and C# files to display basic pages.  
+In this section, we create a new Mobile App(Xamarin.Forms) Solution in Visual Studio and some XAML and C# files to display basic pages.  These contain a start page with a navigation button and another page with a label, a slider, and an alert message that appears when a button is clicked.
 ## Part 2. Essential XAML Syntax  
 https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-basics/essential-xaml-syntax  
 
